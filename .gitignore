@@ -1,0 +1,5 @@
+__pycache__/
+
+# The trader/ working folder: keep your rules, ignore each day's files
+trader/*
+!trader/config.json
